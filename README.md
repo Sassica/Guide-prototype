@@ -1,4 +1,4 @@
-# nsw-lightson-prototype
+# nsw-RAC-guide-prototype
 
 A static-site prototype built with the NSW Digital Design System, using Eleventy and Webpack.
 
