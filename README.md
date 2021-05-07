@@ -1,4 +1,4 @@
-# nsw-RAC-guide-prototype
+# nsw-rac-guide-prototype
 
 A static-site prototype built with the NSW Digital Design System, using Eleventy and Webpack.
 
