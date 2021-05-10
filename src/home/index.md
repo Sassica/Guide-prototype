@@ -3,7 +3,7 @@
 		<h1>Rules as code guide</h1>
 	</header>
 		<div class="nsw-grid">
-		<div class="nsw-col--quarter menu">
+		<div class="nsw-col--sml-3 menu">
 	<nav class="nsw-sidenav" aria-labelledby="sksm726ns side navigation">
     <div class="nsw-sidenav__header">
       <h2 id="sksm726ns" class="nsw-sidenav__heading">
@@ -40,7 +40,7 @@
  </div>
  <div class="case">
  	<div class="nsw-grid">
-		<div class="nsw-col--quarter">
+		<div class="nsw-col--sml-9">
 			 <div class="content">
 				<h2>Test</h2>
 			</div>
