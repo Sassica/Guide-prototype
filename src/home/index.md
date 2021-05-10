@@ -4,17 +4,8 @@
 	</header>
 	<div class="nsw-grid">
 		<div class="nsw-col--half">
-			
-			</div>
-						
-		<div class="nsw-col--half">
-		
-				<h3>Heading three</h3>
-       
-  				
-        </div>
-			</div>
-		</div>
+	</div>
+</div>
 
 
 
