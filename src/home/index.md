@@ -7,6 +7,7 @@
 			
 			<p>Test</p>
 			</div>
+						
 		<div class="nsw-col--half">
 			<div class="panel">
 				<h3><i></i>Heading three</h3>
@@ -16,5 +17,5 @@
 			</div>
 		</div>
 	</div>
-</div>
+
 
