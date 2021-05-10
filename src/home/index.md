@@ -38,10 +38,10 @@
         </li>
     </ul>
   </nav>
-  	<div class="nsw-col--half">
+ </div>
+ <div class="nsw-col--half">
 	<h2>Test</h2>
 	</div>
- </div>
 </div>
 
 
