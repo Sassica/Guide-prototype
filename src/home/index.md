@@ -41,7 +41,7 @@
  <div class="case">
  	<div class="nsw-grid">
 		<div class="nsw-col--quarter">
-			 <div class="panel">
+			 <div class="content">
 				<h2>Test</h2>
 			</div>
 		</div>
@@ -50,5 +50,5 @@
  
 </div>
 
-
+</div>
 
