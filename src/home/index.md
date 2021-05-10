@@ -8,13 +8,13 @@
 			</div>
 						
 		<div class="nsw-col--half">
-			<div class="panel">
+		
 				<h3>Heading three</h3>
        
   				
         </div>
 			</div>
 		</div>
-	</div>
+
 
 
