@@ -42,7 +42,7 @@
  	<div class="nsw-grid">
 		<div class="nsw-col--quarter">
 			 <div class="content">
-				<h1>Test</h1>
+				<h2>Test</h2>
 			</div>
 		</div>
 	</div>
