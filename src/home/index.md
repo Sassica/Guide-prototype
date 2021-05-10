@@ -40,6 +40,7 @@
   </nav>
   	<div class="nsw-col--half">
 	<h2>Test</h2>
+	</div>
  </div>
 </div>
 
