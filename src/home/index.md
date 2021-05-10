@@ -5,7 +5,6 @@
 	<div class="nsw-grid">
 		<div class="nsw-col--half">
 			
-			<p>Test</p>
 			</div>
 						
 		<div class="nsw-col--half">
