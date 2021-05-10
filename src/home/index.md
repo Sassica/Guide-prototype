@@ -9,7 +9,7 @@
 						
 		<div class="nsw-col--half">
 			<div class="panel">
-				<h3><i></i>Heading three</h3>
+				<h3>Heading three</h3>
        
   				
         </div>
