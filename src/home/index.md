@@ -1,8 +1,10 @@
 <div class="case">
+	<header>
+		<h1>Rules as code guide</h1>
+	</header>
 		<div class="nsw-grid">
 		<div class="nsw-col--half">
-			
-<nav class="nsw-sidenav" aria-labelledby="sksm726ns side navigation">
+	<nav class="nsw-sidenav" aria-labelledby="sksm726ns side navigation">
     <div class="nsw-sidenav__header">
       <h2 id="sksm726ns" class="nsw-sidenav__heading">
         <a href="#" class="nsw-sidenav__heading-link">Section heading</a></h2>
