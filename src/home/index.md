@@ -42,8 +42,7 @@
  		<div class="nsw-grid">
 			<div class="nsw-col--sml-3">
 				 <div class="content">
-					<h2>Test</h2>
-			</div>
+					</div>
 			</div>
 		</div>
 			</div>
