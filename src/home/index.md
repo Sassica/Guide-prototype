@@ -38,17 +38,21 @@
     </ul>
   </nav>
  </div>
+	<div class="case">
+ 		<div class="nsw-grid">
+			<div class="nsw-col--sml-2">
+				 <div class="content">
+					<h2>Test</h2>
+			</div>
  <div class="case">
  	<div class="nsw-grid">
-		<div class="nsw-col--sml-9">
+		<div class="nsw-col--sml-7">
 			 <div class="content">
 				<h2>Test</h2>
 			</div>
 		</div>
 	</div>
 </div>
- 
 </div>
-
 </div>
 
